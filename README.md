@@ -1,2 +1,2 @@
-# my-first-repo
+# Learning-Git-Workflow
 Practice account for learning Git
